@@ -1,2 +1,2 @@
-# Test
-This is test
+#My First Repo
+Mr Kalob is Very Good Teacher
